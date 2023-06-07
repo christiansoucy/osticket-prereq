@@ -8,7 +8,7 @@ This video demonstration outlines the prerequisites and installation of the open
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/m6P-5h43p6w)
+- ### [YouTube: osTicket Help Desk Ticketing System](https://youtu.be/m6P-5h43p6w)
 
 <h2>Environments and Technologies Used</h2>
 
