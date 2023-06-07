@@ -22,11 +22,12 @@ This video demonstration outlines the prerequisites and installation of the open
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- PHP Manager for IIS
+- Rewrite Module
+- PHP 7.3.8
+- VC_redist.x86.exe
+- MySQL 5.5.62
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
