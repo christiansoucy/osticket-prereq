@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites, Installation, Post Install Setup, and Ticket Lifecycle </h1>
-This video demonstration outlines the prerequisites and installation of the open-source help desk ticketing system osTicket, as well as walk through a basic port installation setup and simple ticket lifecycle.<br />
+This video demonstration outlines the prerequisites and installation of the open-source help desk ticketing system osTicket, as well as walks through a basic port installation setup and simple ticket lifecycle.<br />
 
 
 <h2>Video Demonstration</h2>
